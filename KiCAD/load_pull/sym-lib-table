@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HF_opamp")(type "KiCad")(uri "${KIPRJMOD}/HF_opamp.kicad_sym")(options "")(descr ""))
+)
