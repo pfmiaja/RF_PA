@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "RF_PA")(type "KiCad")(uri "${KIPRJMOD}/RF_PA.pretty")(options "")(descr ""))
   (lib (name "conectores")(type "KiCad")(uri "${KIPRJMOD}/conectores.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/Logo.pretty")(options "")(descr ""))
 )
