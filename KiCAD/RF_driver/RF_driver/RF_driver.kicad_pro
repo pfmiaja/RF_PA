@@ -482,7 +482,7 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.6,
+        "via_diameter": 0.8,
         "via_drill": 0.3,
         "wire_width": 14
       },
@@ -498,7 +498,7 @@
         "priority": 0,
         "schematic_color": "rgb(132, 0, 132)",
         "track_width": 0.3,
-        "via_diameter": 0.6,
+        "via_diameter": 0.8,
         "via_drill": 0.3,
         "wire_width": 20
       }
@@ -509,6 +509,9 @@
     "net_colors": null,
     "netclass_assignments": {
       "+12V": [
+        "power"
+      ],
+      "+5V": [
         "power"
       ],
       "-12V": [
